@@ -2,13 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="author" content="Hao Zhou">
+    <meta name="author" content="Fei Jiang">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href="{{site.baseurl}}/">
 
     <title>{{page.title}}</title>
 
-    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Hao Zhou's Blog" href="rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Fei Jiang's Blog" href="rss.xml" />
     <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
 
     <!-- Google Analytics -->
@@ -57,7 +57,7 @@
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="icon-bar"></span>
           </button>
-          <span class="navbar-brand">Hao Zhou</span>
+          <span class="navbar-brand">Fei Jiang</span>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
